@@ -10,7 +10,7 @@ Air Quality Index (AQI) values (average, min, and max)
 Last updated date for each record
 
 🧪 Tools & Libraries
-pandas – for data manipulation
+#pandas – for data manipulation
 matplotlib – for creating visualizations
 seaborn – for enhanced statistical plots
 
